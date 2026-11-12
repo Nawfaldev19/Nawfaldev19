@@ -2,7 +2,9 @@
 
 **Senior Full Stack Developer.** I build complex interactive editors (diagrams, canvases, form and layout builders) and multi-tenant SaaS on React, TypeScript, Ruby on Rails and GraphQL.
 
-**Portfolio: [nawfaldev19.github.io](https://nawfaldev19.github.io)**. The site is itself a working editor: wire the nodes and it restyles itself.
+<a href="https://nawfaldev19.github.io"><img src="https://img.shields.io/badge/Visit_my_portfolio-nawfaldev19.github.io_%E2%86%92-B4441A?style=for-the-badge&labelColor=1C1B18" alt="Visit my portfolio: nawfaldev19.github.io" height="36"></a>
+
+The site is itself a working editor: wire the nodes and it restyles itself.
 
 I've spent 4+ years making hard UI feel simple: diagram editors that stay smooth on large graphs, booking systems that never double-book, and many organisations sharing one platform without seeing each other's data. I've led a node-based workflow editor on a multi-tenant healthcare data platform, reviewing both frontend and backend work, and I build features end to end on a practice-management platform for clinics.
 
