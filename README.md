@@ -2,6 +2,8 @@
 
 **Senior Full Stack Developer.** I build complex interactive editors (diagrams, canvases, form and layout builders) and multi-tenant SaaS on React, TypeScript, Ruby on Rails and GraphQL.
 
+**Portfolio: [nawfaldev19.github.io](https://nawfaldev19.github.io)**. The site is itself a working editor: wire the nodes and it restyles itself.
+
 I've spent 4+ years making hard UI feel simple: diagram editors that stay smooth on large graphs, booking systems that never double-book, and many organisations sharing one platform without seeing each other's data. I've led a node-based workflow editor on a multi-tenant healthcare data platform, reviewing both frontend and backend work, and I build features end to end on a practice-management platform for clinics.
 
 ## What I've worked on
@@ -46,4 +48,4 @@ AI makes me faster; it doesn't replace the judgement.
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/nawfal-imran-886b13218)
+[Portfolio](https://nawfaldev19.github.io) · [LinkedIn](https://www.linkedin.com/in/nawfal-imran-886b13218)
