@@ -19,7 +19,7 @@ A few demos I've built, each one a hard problem solved end to end:
 
 | Project | What it shows |
 |---|---|
-| [realtime-reactflow-canvas](https://github.com/Nawfaldev19/realtime-reactflow-canvas) | Several people editing one diagram at once: live cursors, connector routing, version history. React Flow, TypeScript, Rails, Action Cable |
+| [realtime-reactflow-canvas](https://github.com/Nawfaldev19/realtime-reactflow-canvas) | Several people editing one diagram at once: live cursors, connector routing, version history. React Flow, TypeScript, Rails, Action Cable. **[Live demo](https://live-canvas-web.onrender.com)** |
 | [rails-booking-kiosk](https://github.com/Nawfaldev19/rails-booking-kiosk) | Double booking refused by the database itself, plus a front-desk kiosk. Rails 8, GraphQL, PostgreSQL, React |
 | [multitenant-graphql-bookings](https://github.com/Nawfaldev19/multitenant-graphql-bookings) | Several organisations on one system that can never see each other's data. Rails 8, GraphQL, React, TypeScript |
 | [svg-floorplan-studio](https://github.com/Nawfaldev19/svg-floorplan-studio) | A floor-plan editor with an embeddable read-only viewer; every editing rule is a pure, unit-tested reducer. React 19, TypeScript, SVG |
